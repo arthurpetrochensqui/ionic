@@ -1,0 +1,9 @@
+{
+  "appId": "br.com.amsystemas.tcw",
+  "appName": "TCW",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath" :"/home/arthur/Documents/android-studio/bin/studio.sh",
+  "cordova": {}
+}

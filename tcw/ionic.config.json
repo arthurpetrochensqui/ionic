@@ -1,0 +1,7 @@
+{
+  "name": "tcw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
